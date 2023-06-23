@@ -26,18 +26,15 @@
                             <label class="form-label" for="form2Example1"></label>
                         </div>
         <!--nome-->
-                        <div class="container">
-                            <div class="row">
-                                <div class="form-outline ">
-                                        <input type="text" name="nome" id="form2Example1" class="form-control" placeholder="Nome"/>
-                                        <label class="form-label" for="form2Example1"></label>
-                                </div>
-                        <div class="form-outline ml-4">
-                            <input type="text" name="sobrenome" id="form2Example1" class="form-control" placeholder="Sobrenome"/>
+                        
+                        <div class="form-outline ">
+                            <input type="text" name="nome" id="form2Example1" class="form-control" placeholder="Nome"/>
                             <label class="form-label" for="form2Example1"></label>
                         </div>
-                            </div>
-                        </div>
+                        <div class="form-outline">
+                            <input type="text" name="sobrenome" id="form2Example1" class="form-control" placeholder="Sobrenome"/>
+                            <label class="form-label" for="form2Example1"></label>
+                        </div> 
         <!-- Password input -->
                         <div class="form-outline mb-1">
                             <input type="password" name="senha" id="form2Example" class="form-control" placeholder="Senha " />
